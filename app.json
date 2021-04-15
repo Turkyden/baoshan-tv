@@ -29,6 +29,8 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": "A tiny demo for react native app.",
+    "githubUrl": "https://github.com/Turkyden/baoshan-tv.git"
   }
 }
